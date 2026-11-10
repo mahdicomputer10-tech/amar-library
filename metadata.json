@@ -1,0 +1,6 @@
+{
+  "name": "লাইব্রেরি - অফলাইন বাংলা PDF লাইব্রেরি",
+  "description": "অফলাইন বাংলা PDF লাইব্রেরি, রিডিং ট্র্যাকার, পেজ বুকমার্ক এবং ব্যাকআপ সুবিধা সম্পন্ন ডিজিটাল পাঠাগার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
